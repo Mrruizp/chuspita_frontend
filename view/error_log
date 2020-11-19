@@ -1,0 +1,16 @@
+[05-Nov-2020 05:58:47 UTC] PHP Warning:  include_once(./menu-arriba.bodega-online.informacion.view.php): failed to open stream: No such file or directory in /home/lachuspi/public_html/frontend/view/bodega.online.view.php on line 39
+[05-Nov-2020 05:58:47 UTC] PHP Warning:  include_once(): Failed opening './menu-arriba.bodega-online.informacion.view.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/lachuspi/public_html/frontend/view/bodega.online.view.php on line 39
+[05-Nov-2020 06:01:37 UTC] PHP Warning:  include_once(./menu-arriba.bodega-online.informacion.view.php): failed to open stream: No such file or directory in /home/lachuspi/public_html/frontend/view/bodega.online.view.php on line 39
+[05-Nov-2020 06:01:37 UTC] PHP Warning:  include_once(): Failed opening './menu-arriba.bodega-online.informacion.view.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/lachuspi/public_html/frontend/view/bodega.online.view.php on line 39
+[15-Nov-2020 01:11:36 UTC] PHP Warning:  A non-numeric value encountered in /home/lachuspi/public_html/frontend/view/producto.checkout.view.php on line 201
+[15-Nov-2020 01:11:36 UTC] PHP Warning:  A non-numeric value encountered in /home/lachuspi/public_html/frontend/view/producto.checkout.view.php on line 201
+[15-Nov-2020 01:11:36 UTC] PHP Warning:  A non-numeric value encountered in /home/lachuspi/public_html/frontend/view/producto.checkout.view.php on line 201
+[15-Nov-2020 01:12:13 UTC] PHP Warning:  A non-numeric value encountered in /home/lachuspi/public_html/frontend/view/producto.checkout.view.php on line 201
+[15-Nov-2020 01:12:13 UTC] PHP Warning:  A non-numeric value encountered in /home/lachuspi/public_html/frontend/view/producto.checkout.view.php on line 201
+[15-Nov-2020 01:12:13 UTC] PHP Warning:  A non-numeric value encountered in /home/lachuspi/public_html/frontend/view/producto.checkout.view.php on line 201
+[15-Nov-2020 01:13:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function datetime() in /home/lachuspi/public_html/frontend/view/producto.checkout.view.php:201
+Stack trace:
+#0 {main}
+  thrown in /home/lachuspi/public_html/frontend/view/producto.checkout.view.php on line 201
+[15-Nov-2020 01:55:22 UTC] PHP Parse error:  syntax error, unexpected 'Y' (T_STRING), expecting ',' or ')' in /home/lachuspi/public_html/frontend/view/producto.checkout.view.php on line 201
+[15-Nov-2020 01:56:29 UTC] PHP Parse error:  syntax error, unexpected 'Y' (T_STRING), expecting ',' or ')' in /home/lachuspi/public_html/frontend/view/producto.checkout.view.php on line 201

@@ -1,0 +1,66 @@
+[16-Oct-2020 14:17:07 America/Lima] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lachuspi/public_html/frontend/controller/producto.cargar.controller.php:16) in /home/lachuspi/public_html/frontend/util/functions/Helper.class.php on line 121
+[16-Oct-2020 14:17:07 America/Lima] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lachuspi/public_html/frontend/controller/producto.cargar.controller.php:16) in /home/lachuspi/public_html/frontend/util/functions/Helper.class.php on line 122
+[16-Oct-2020 15:25:45 America/Lima] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lachuspi/public_html/frontend/controller/producto.cargar.controller.php:13) in /home/lachuspi/public_html/frontend/util/functions/Helper.class.php on line 121
+[16-Oct-2020 15:25:45 America/Lima] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lachuspi/public_html/frontend/controller/producto.cargar.controller.php:13) in /home/lachuspi/public_html/frontend/util/functions/Helper.class.php on line 122
+[16-Oct-2020 15:26:15 America/Lima] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lachuspi/public_html/frontend/controller/producto.cargar.controller.php:13) in /home/lachuspi/public_html/frontend/util/functions/Helper.class.php on line 121
+[16-Oct-2020 15:26:15 America/Lima] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lachuspi/public_html/frontend/controller/producto.cargar.controller.php:13) in /home/lachuspi/public_html/frontend/util/functions/Helper.class.php on line 122
+[22-Oct-2020 16:29:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getEmail() in /home/lachuspi/public_html/frontend/logic/Usuario.class.php:185
+Stack trace:
+#0 /home/lachuspi/public_html/frontend/controller/registrate.usuario.agregar.controller.php(29): Usuario->agregar()
+#1 {main}
+  thrown in /home/lachuspi/public_html/frontend/logic/Usuario.class.php on line 185
+[22-Oct-2020 16:32:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getEmail() in /home/lachuspi/public_html/frontend/logic/Usuario.class.php:185
+Stack trace:
+#0 /home/lachuspi/public_html/frontend/controller/registrate.usuario.agregar.controller.php(29): Usuario->agregar()
+#1 {main}
+  thrown in /home/lachuspi/public_html/frontend/logic/Usuario.class.php on line 185
+[22-Oct-2020 17:38:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getEmail() in /home/lachuspi/public_html/frontend/logic/Usuario.class.php:162
+Stack trace:
+#0 /home/lachuspi/public_html/frontend/controller/registrate.usuario.agregar.controller.php(29): Usuario->agregar()
+#1 {main}
+  thrown in /home/lachuspi/public_html/frontend/logic/Usuario.class.php on line 162
+[03-Nov-2020 01:21:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Producto::listar_productos_resumen_carrito_precio_total() in /home/lachuspi/public_html/frontend/controller/resumen.carrito.listar.controller.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/lachuspi/public_html/frontend/controller/resumen.carrito.listar.controller.php on line 8
+[03-Nov-2020 01:21:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Producto::listar_productos_resumen_carrito_precio_total() in /home/lachuspi/public_html/frontend/controller/resumen.carrito.listar.controller.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/lachuspi/public_html/frontend/controller/resumen.carrito.listar.controller.php on line 8
+[03-Nov-2020 01:21:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Producto::listar_productos_resumen_carrito_precio_total() in /home/lachuspi/public_html/frontend/controller/resumen.carrito.listar.controller.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/lachuspi/public_html/frontend/controller/resumen.carrito.listar.controller.php on line 8
+[03-Nov-2020 01:22:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Producto::listar_productos_resumen_carrito_precio_total() in /home/lachuspi/public_html/frontend/controller/resumen.carrito.listar.controller.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/lachuspi/public_html/frontend/controller/resumen.carrito.listar.controller.php on line 8
+[03-Nov-2020 01:22:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Producto::listar_productos_resumen_carrito_precio_total() in /home/lachuspi/public_html/frontend/controller/resumen.carrito.listar.controller.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/lachuspi/public_html/frontend/controller/resumen.carrito.listar.controller.php on line 8
+[03-Nov-2020 01:22:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Producto::listar_productos_resumen_carrito_precio_total() in /home/lachuspi/public_html/frontend/controller/resumen.carrito.listar.controller.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/lachuspi/public_html/frontend/controller/resumen.carrito.listar.controller.php on line 8
+[03-Nov-2020 01:22:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Producto::listar_productos_resumen_carrito_precio_total() in /home/lachuspi/public_html/frontend/controller/precio_total.pedido.listar.controller.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/lachuspi/public_html/frontend/controller/precio_total.pedido.listar.controller.php on line 16
+[11-Nov-2020 20:04:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Usuario::obtenerPedido() in /home/lachuspi/public_html/frontend/controller/obtener.datos.pedido.controller.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/lachuspi/public_html/frontend/controller/obtener.datos.pedido.controller.php on line 28
+[11-Nov-2020 20:28:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Usuario::obtenerPedido() in /home/lachuspi/public_html/frontend/controller/obtener.datos.pedido.controller.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/lachuspi/public_html/frontend/controller/obtener.datos.pedido.controller.php on line 28
+[12-Nov-2020 22:25:20 UTC] PHP Notice:  Undefined variable: clave in /home/lachuspi/public_html/frontend/controller/enviar_correo_automatico.pedido.controller.php on line 44
+[12-Nov-2020 22:28:04 UTC] PHP Notice:  Undefined variable: clave in /home/lachuspi/public_html/frontend/controller/enviar_correo_automatico.pedido.controller.php on line 44
+[12-Nov-2020 22:43:57 UTC] PHP Notice:  Undefined variable: clave in /home/lachuspi/public_html/frontend/controller/enviar_correo_automatico.pedido.controller.php on line 44
+[12-Nov-2020 23:02:54 UTC] PHP Notice:  Undefined variable: correo in /home/lachuspi/public_html/frontend/controller/enviar_correo_automatico.pedido.controller.php on line 84
+[12-Nov-2020 23:05:14 UTC] PHP Notice:  Undefined variable: correo in /home/lachuspi/public_html/frontend/controller/enviar_correo_automatico.pedido.controller.php on line 84
+[12-Nov-2020 23:14:41 UTC] PHP Notice:  Undefined variable: correo in /home/lachuspi/public_html/frontend/controller/enviar_correo_automatico.pedido.controller.php on line 84
+[12-Nov-2020 23:22:49 UTC] PHP Notice:  Undefined variable: correo in /home/lachuspi/public_html/frontend/controller/enviar_correo_automatico.pedido.controller.php on line 87
+[12-Nov-2020 23:25:39 UTC] PHP Notice:  Undefined variable: correo in /home/lachuspi/public_html/frontend/controller/enviar_correo_automatico.pedido.controller.php on line 87
+[13-Nov-2020 05:19:13 UTC] PHP Notice:  Undefined index: pimporte_total in /home/lachuspi/public_html/frontend/controller/enviar_correo_automatico.pedido.controller.php on line 29
